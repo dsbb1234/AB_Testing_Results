@@ -1,5 +1,5 @@
 # A/B Testing Results
-This project compares existing Audacity web page design to a new web page design to determine if recent updates will drive additional users to click through (known as "converting") to register for the course.
+This project compares existing Audacity web page design to a new web page design to determine if recent updates will drive additional users to click through (known as "converting") to register for the course.  Data was supplied by Udacity in support of the Data Analyst Nanodegree.
 
 This repository contains all of the code and data files necessary to run the analysis.
 
